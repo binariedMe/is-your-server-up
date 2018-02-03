@@ -1,4 +1,4 @@
-#Is your server up?
+# Is your server up?
 
 Steps to run the application :
 
@@ -21,4 +21,4 @@ Steps to run the application :
 > npm test
 
 
-### For any query, please reach me out at ashittheone.98@gmail.com
+###### For any query, please reach me out at ashittheone.98@gmail.com
