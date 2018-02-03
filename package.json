@@ -1,0 +1,25 @@
+{
+  "name": "is-your-server-up",
+  "version": "0.0.1",
+  "description": "Its so easy now to check if your server is up or not...",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binariedMe/is-your-server-up.git"
+  },
+  "author": "Rohit Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binariedMe/is-your-server-up/issues"
+  },
+  "homepage": "https://github.com/binariedMe/is-your-server-up#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5"
+  }
+}
